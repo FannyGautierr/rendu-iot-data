@@ -2,7 +2,8 @@
 
 Explore earth from the space !
 * Use the joystick to rotate the earth 
-* Use the potentiometer to zoom in and out 
+* Use the potentiometer to zoom in and out
+* Click on the joystick to set a pin point on the earth
 
 ## Members 👩‍💻🧑‍💻
  [@lucaschrng](https://github.com/lucaschrng) <br>
@@ -24,9 +25,6 @@ url = "http://YOUR_SERVER_IP_ADDRESS:3000/api/control"
 $ cd server
 $ npm run dev
 ```
-
-
-
 
 ## Video 🎥
 [Lien de la vidéo Youtube]()
