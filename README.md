@@ -27,7 +27,7 @@ $ npm run dev
 ```
 
 ## Video 🎥
-[Lien de la vidéo Youtube](https://www.youtube.com/shorts/6c8O9DOlZE8)
+[Video link of the project](https://www.youtube.com/shorts/6c8O9DOlZE8)
 
 ## Components ⚙️
 * Raspberry Pi Pico W
