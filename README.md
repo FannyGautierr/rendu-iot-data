@@ -3,7 +3,6 @@
 Explore earth from the space !
 * Use the joystick to rotate the earth 
 * Use the potentiometer to zoom in and out
-* Click on the joystick to set a pin point on the earth
 
 ## Members 👩‍💻🧑‍💻
  [@lucaschrng](https://github.com/lucaschrng) <br>
