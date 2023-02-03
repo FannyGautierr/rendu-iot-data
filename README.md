@@ -1,24 +1,28 @@
 # Rendu-iot-data : Planet Explorer 🌍
 
-> Explorez la planète Terre depuis l'espace !
+Explore earth from the space !
 
- Les membres : Fanny Gauter, Lucas Charoing
+## Members 👩‍💻🧑‍💻
+ [@FannyGautierr](https://github.com/FannyGautierr) <br>
+ [@lucaschrng](https://github.com/lucaschrng)
  
-## Quick Start
-* Go to `script.py` and change the variablles `ssid` and `password` <br/> 
+## Quick Start ✅
+* Go to `script.py` and change the variablles `ssid` and `password` with the correct informations from your local network <br/> 
 Exemple : 
 ```py
-
+ssid = "my wifi name"
+password = "my wifi password"
 ```
+
  
-# Video 
+## Video 🎥
 [Lien de la vidéo Youtube]()
 
-# Schémas
+## Schémas 📝
 ### Schéma de l'arduino uno
 
 ### Schéma de microéléctronique
 
 
-# Explications
+## Explications
 
