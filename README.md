@@ -5,8 +5,8 @@
  Les membres : Fanny Gauter, Lucas Charoing
  
 ## Quick Start
-* Go to 'script.py' and change the variablles 'ssid' and 'oassword' to yours 
-exemple 
+* Go to `script.py` and change the variablles `ssid` and `password` <br/> 
+Exemple : 
 ```py
 
 ```
