@@ -29,6 +29,11 @@ $ npm run dev
 ## Video 🎥
 [Lien de la vidéo Youtube]()
 
+## Components ⚙️
+* Raspberry Pi Pico W
+* Potentiometer
+* Joystick
+
 ## Schema 📝
 ![image](./electronic_schematics.png)
 
