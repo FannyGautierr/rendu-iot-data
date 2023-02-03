@@ -19,9 +19,7 @@ password = "my wifi password"
 [Lien de la vidéo Youtube]()
 
 ## Schémas 📝
-### Schéma de l'arduino uno
-
-### Schéma de microéléctronique
+![image](./electronicsshematics.png)
 
 
 ## Explications
